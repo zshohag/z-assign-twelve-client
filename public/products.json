@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "MATRICE 300",
+      "image": "https://i.ibb.co/zRmgyH6/Untitled-design-15.png",
+      "price": 300,
+      "description": "DJI has launched the M300 RTK – a next-level commercial drone platform which offers enhanced flight performance and unrivalled safety features, with a 55 minute maximum flight time, advanced AI capabilities."
+    },
+    {
+      "id": 2,
+      "name": "PHANTOM 4",
+      "image": "https://i.ibb.co/NTm5Gmr/mi-4-k-drone-camera-500x500-1.jpg",
+      "price": 350,
+      "description": "The Phantom 4 RTK Quadcopter from DJI is a Phantom 4 quadcopter that is designed to deliver centimeter-level accurate mapping that can be extremely useful for surveying, construction sites, and inspections."
+    },
+    {
+      "id": 3,
+      "name": "Parrot Anafi",
+      "image": "https://i.ibb.co/km3kmJM/1-2.png",
+      "price": 600,
+      "description": "Parrot Anafi, a company that is mostly known for drones tailored to kids or beginner pilots, on the other hand, is still around. The new Anafi is the company’s direct answer to DJI’s recent Mavic Air and is a compact"
+    },
+    {
+      "id": 4,
+      "name": "DJI Mavic 3 Pro",
+      "image": "https://i.ibb.co/7Gv2Tvk/DJI-Air-2-S-Product-Image-2.png",
+      "price": 650,
+      "description": "DJI Mavic 2 Pro balances power, portability, and professional-quality visuals with the inclusion of a 20MP Hasselblad L1D-20c gimbal camera. It comes with a Hasselblad camera installed in it . It’s perfect for capturing ."
+    },
+    {
+      "id": 5,
+      "name": "DJI Mavic 2",
+      "image": "https://i.ibb.co/YtnmLKH/DJI-Air-2-S-Product-Image-1.png",
+      "price": 400,
+      "description": "DJI Mavic 2 Pro balances power, portability, and professional-quality visuals with the inclusion of a 20MP Hasselblad L1D-20c gimbal camera. It comes with a Hasselblad camera installed in it"
+    },
+    {
+      "id": 6,
+      "name": "DJI Inspire 2",
+      "image": "https://i.ibb.co/7QYNxDN/26.png",
+      "price": 550,
+      "description": "The Inspire 2 takes everything that was good about Inspire 1 and improves it. The image processing system CineCore2.0 has been upgraded to CineCore2.1, recording video at up to 6K in CinemaDNG/RAW ."
+    },
+    {
+      "id": 7,
+      "name": "DJI FPV Drone",
+      "image": "https://i.ibb.co/Q9bRvDr/19.png",
+      "price": 900,
+      "description": "The DJI FPV flies through the sky in ways that seem impossible. Even for the experts, manual FVP flight can be intimidating and that’s the reason why DJI FVP comes with emergency brakes."
+    },
+    {
+      "id": 8,
+      "name": "Autel EVO II",
+      "image": "https://i.ibb.co/GHgStPK/14.png",
+      "price": 1000,
+      "description": "A tool that works as hard as you do. Designed with portability in mind, EVO 2 is built with quality craftsmanship. Each component of EVO 2 goes through multiple tests before assembly."
+    },
+    {
+      "id": 9,
+      "name": "DJI Tello",
+      "image": "https://i.ibb.co/pbBM42p/11-1.png",
+      "price": 850,
+      "description": "The Tech Tello Quadcopter Boost Combo lets you shoot over longer periods of time, as it comes packaged with three batteries, instead of one, and a 3-battery charging hub. Each battery will power up to 13 minutes."
+    },
+    {
+      "id": 10,
+      "name": "DJI Spark",
+      "image": "https://i.ibb.co/MVGKY7k/13.png",
+      "price": 750,
+      "description": "Though agile in the air, drones can be bulky and cumbersome when on land. Not so with the alpine white Spark from DJI, which won’t hold you back no matter what the adventure. This compact quadcopter features ."
+    },
+    {
+      "id": 11,
+      "name": "FIMI X8SE",
+      "image": "https://i.ibb.co/MBSMm6p/2-6.pngg",
+      "price": 800,
+      "description": "The Fimi X8 SE weighs about 765g and comes with a foldable and portable design. The FIMI X8 SE is a tiny drone with a 3-axis stabilization camera.  It is capable of recording 4K video which is better than any other drone"
+    },
+    {
+      "id": 12,
+      "name": "DJI Air 2S",
+      "image": "https://i.ibb.co/T03146W/12.png",
+      "price": 1400,
+      "description": "Featuring a 1-inch CMOS sensor, powerful autonomous functions, and a compact body weighing less than 600 g. DJI Air 2S is the ultimate drone for creators on the move. Take this all-in-one aerial powerhouse anywhere to experience "
+    }
+  ]
