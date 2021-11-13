@@ -16,7 +16,7 @@ const Slider = () => {
             alt="First slide"
         />
         <Carousel.Caption>
-            <h3> Order your favorite food from Hungry Takeout</h3>
+            <h3> Order your Drone </h3>
             <p></p>
         </Carousel.Caption>
         </Carousel.Item>
@@ -28,7 +28,7 @@ const Slider = () => {
             alt="Second slide"
         />
         <Carousel.Caption>
-            <h3 >Never compromise with the quality of food  </h3>
+            <h3 >Never compromise with the quality of Product  </h3>
         </Carousel.Caption>
         </Carousel.Item>
 
