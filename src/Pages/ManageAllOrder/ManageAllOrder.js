@@ -9,7 +9,7 @@ const ManageAllOrder = () => {
    const [alls,setAlls] =  useState([])
 
    useEffect(()=>{
-       fetch('http://localhost:5000/orders')
+       fetch('https://infinite-cove-73906.herokuapp.com/orders')
        .then(res => res.json())
        .then(data=> setAlls(data))
    },[])

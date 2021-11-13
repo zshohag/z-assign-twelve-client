@@ -12,7 +12,7 @@ const Order = () => {
    
     const [ order,setOrder]  = useState({})
     useEffect(()=>{
-        fetch(`http://localhost:5000/drones/${detailId}`)
+        fetch(`https://infinite-cove-73906.herokuapp.com/drones/${detailId}`)
         .then(res => res.json())
         .then(data => setOrder(data))
         },[detailId])
@@ -29,7 +29,7 @@ const Order = () => {
             data.productDescription = order.description
            
 
-            fetch('http://localhost:5000/order',{
+            fetch('https://infinite-cove-73906.herokuapp.com/order',{
         
              method:"POST",
              headers: {

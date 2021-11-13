@@ -18,7 +18,7 @@ const ManageOrder = ({all}) => {
     console.log(id)
         const proceed = window.confirm("Are u sure,you want to  delete? ")
         if(proceed){
-            const url = `http://localhost:5000/orders/${id}`
+            const url = `https://infinite-cove-73906.herokuapp.com/orders/${id}`
             fetch(url , {
                 method: 'DELETE'
                 

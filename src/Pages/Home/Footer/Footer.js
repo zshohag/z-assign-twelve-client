@@ -100,7 +100,7 @@ const Footer = () => {
     <div
          className="text-center p-2"
          style={{backgroundColor:" rgba(0, 0, 0, 0.2)"}}
-         > <small  >© Hungry  Takeout – All Rights Reserved.</small>
+         > <small  >© FLY GO – All Rights Reserved.</small>
 
     </div>
 

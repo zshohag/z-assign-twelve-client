@@ -8,7 +8,7 @@ const Review = () => {
 
   const { user } = useAuth();
   const onSubmit = (data) => {
-    fetch("http://localhost:5000/review", {
+    fetch("https://infinite-cove-73906.herokuapp.com/review", {
 
       method: "POST",
       headers: { "content-type": "application/json" },

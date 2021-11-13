@@ -9,7 +9,7 @@ const MyOrder = () => {
 
         const [orders, setOrders] = useState([]);
         useEffect( () => {
-          fetch(`http://localhost:5000/orders/${user?.email}`)
+          fetch(`https://infinite-cove-73906.herokuapp.com/orders/${user?.email}`)
             .then((res) => res.json())
             .then((data) => setOrders(data));
         }, [user.email]);

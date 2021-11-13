@@ -10,7 +10,7 @@ const AddANewItem = () => {
         
         console.log(data)
 
-        axios.post('http://localhost:5000/drones' , data )
+        axios.post('https://infinite-cove-73906.herokuapp.com/drones' , data )
         .then(res => {
             if(res.data.insertedId){
                 alert('Item added successfully')

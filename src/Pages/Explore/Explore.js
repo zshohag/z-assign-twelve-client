@@ -9,7 +9,7 @@ const Explore = () => {
     const [items,setItems]  =  useState([])
 
     useEffect(()=> {
-        fetch('http://localhost:5000/drones')
+        fetch('https://infinite-cove-73906.herokuapp.com/drones')
         .then(res=> res.json())
         .then(data=>setItems(data))
     },[])
